@@ -1,7 +1,7 @@
 #!/bin/bash
 
 SCRIPT_DIR="/Users/Shared/Script"
-LOG_COMMAND="/bin/bash $SCRIPT_DIR/Shell/Log/Log.sh Wake.sh"
+LOG_COMMAND="/bin/bash $SCRIPT_DIR/Shell/Log/Log.sh $0"
 
 $LOG_COMMAND "start"
 

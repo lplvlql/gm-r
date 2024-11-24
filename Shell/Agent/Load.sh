@@ -2,7 +2,7 @@
 
 SCRIPT_DIR="/Users/Shared/Script"
 PLIST_DIR="$SCRIPT_DIR/Agent"
-LOG_COMMAND="/bin/bash $SCRIPT_DIR/Shell/Log/Log.sh Load.sh"
+LOG_COMMAND="/bin/bash $SCRIPT_DIR/Shell/Log/Log.sh $0"
 
 $LOG_COMMAND "start"
 

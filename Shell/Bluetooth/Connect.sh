@@ -1,7 +1,7 @@
 #!/bin/bash
 
 SCRIPT_DIR="/Users/Shared/Script/"
-LOG_COMMAND="/bin/bash $SCRIPT_DIR/Shell/Log/Log.sh Connect.sh"
+LOG_COMMAND="/bin/bash $SCRIPT_DIR/Shell/Log/Log.sh $0"
 
 $LOG_COMMAND "start"
 
@@ -9,24 +9,35 @@ $LOG_COMMAND "start"
 /bin/bash "$SCRIPT_DIR/Shell/Install/Homebrew.sh" >> >(while read line; do $LOG_COMMAND "$line"; done) 2>&1
 /bin/bash "$SCRIPT_DIR/Shell/Install/Blueutil.sh" >> >(while read line; do $LOG_COMMAND "$line"; done) 2>&1
 
-# Array of Bluetooth devices by their MAC addresses
-DEVICES=()
-DEVICES+=("AC:97:38:6B:2A:52") # Apple Keys
-DEVICES+=("D0:C0:50:BD:AC:B1") # Apple Mouse
-DEVICES+=("D0:C0:50:BB:F3:48") # Apple Pad
-# DEVICES+=("60:FD:A6:1D:BB:D8") # Apple AirPods
-# DEVICES+=("F7:D6:A2:54:11:CC") # Kinesis Advantage
-# DEVICES+=("58:10:31:D0:14:93") # Sony DualSense
+# Check if Bluetooth is on or off
+BLUETOOTH_POWER=$( /opt/homebrew/bin/blueutil --power )
+if [[ $BLUETOOTH_POWER == "0" ]]; then
+    $LOG_COMMAND "exit - bluetooth off"
+    exit 0
+fi
 
-# Loop to connect all specified Bluetooth devices
+# DEVICES
+source "$SCRIPT_DIR/Shell/Bluetooth/List.sh"
 for DEVICE in "${DEVICES[@]}"; do
-    # Check if the device is connected
-    CONNECTED=$( /opt/homebrew/bin/blueutil --is-connected "$DEVICE" )
-    if [ "$CONNECTED" == "1" ]; then
-        $LOG_COMMAND "$DEVICE connected."
+    ADDRESS=$( echo "$DEVICE" | tr '[:upper:]' '[:lower:]' | tr ':' '-' )
+
+    PAIRED=$( /opt/homebrew/bin/blueutil --paired )
+    if [[ $PAIRED != *$ADDRESS* ]]; then
+        $LOG_COMMAND "$DEVICE pairing..."
+        /opt/homebrew/bin/blueutil --pair "$DEVICE" >> >(while read line; do $LOG_COMMAND "$line"; done) 2>&1
     else
+        $LOG_COMMAND "$DEVICE paired."
+    fi
+
+    PAIRED=$( /opt/homebrew/bin/blueutil --paired )
+    CONNECTED=$( /opt/homebrew/bin/blueutil --connected )
+    if [[ "$PAIRED" != *$ADDRESS* ]]; then
+        $LOG_COMMAND "$DEVICE unpaired."
+    elif [[ $CONNECTED != *$ADDRESS* ]]; then
         $LOG_COMMAND "$DEVICE connecting..."
         /opt/homebrew/bin/blueutil --connect "$DEVICE" >> >(while read line; do $LOG_COMMAND "$line"; done) 2>&1
+    else
+        $LOG_COMMAND "$DEVICE connected."
     fi
 done
 
