@@ -9,13 +9,13 @@ BLUETOOTH_STATE=""
 $LOG_COMMAND "start"
 
 # Start streaming logs related to bluetoothd
-log stream --predicate 'process == "bluetoothd" AND eventMessage contains "BluetoothState:"' | while read -r line
+log stream --predicate 'process == "bluetoothd" AND eventMessage contains "PowerState:"' | while read -r line
   do
     # Log the incoming line
     $LOG_COMMAND "$line"
 
-    OFF=$( [[ "$line" == *"BluetoothState: 4"* ]] && echo "true" || echo "false" )
-    ON=$( [[ "$line" == *"BluetoothState: 5"* ]] && echo "true" || echo "false" )
+    OFF=$( [[ "$line" == *"PowerState:0"* ]] && echo "true" || echo "false" )
+    ON=$( [[ "$line" == *"PowerState:1"* ]] && echo "true" || echo "false" )
 
     $LOG_COMMAND "BLUETOOTH OFF $OFF"
     $LOG_COMMAND "BLUETOOTH ON $ON"
