@@ -5,15 +5,10 @@ LOG_COMMAND="/bin/bash $SCRIPT_DIR/Shell/Log/Log.sh $0"
 
 $LOG_COMMAND "start"
 
-# Path to the Homebrew and Blueutil setup scripts
-/bin/bash "$SCRIPT_DIR/Shell/Install/Homebrew.sh" >> >(while read line; do $LOG_COMMAND "$line"; done) 2>&1
-/bin/bash "$SCRIPT_DIR/Shell/Install/Blueutil.sh" >> >(while read line; do $LOG_COMMAND "$line"; done) 2>&1
-
-# Check if Bluetooth is on or off
+# Turn bluetooth back on temporarily
 BLUETOOTH_POWER=$( /opt/homebrew/bin/blueutil --power )
 if [[ $BLUETOOTH_POWER == "0" ]]; then
-    $LOG_COMMAND "exit - bluetooth off"
-    exit 0
+    /opt/homebrew/bin/blueutil --power 1 >> >(while read line; do $LOG_COMMAND "$line"; done) 2>&1
 fi
 
 # DEVICES
@@ -37,5 +32,11 @@ for DEVICE in "${DEVICES[@]}"; do
         $LOG_COMMAND "$DEVICE unpaired."
     fi
 done
+
+# Turn bluetooth back off
+if [[ $BLUETOOTH_POWER == "0" ]]; then
+    sleep 2
+    /opt/homebrew/bin/blueutil --power 0 >> >(while read line; do $LOG_COMMAND "$line"; done) 2>&1
+fi
 
 $LOG_COMMAND "end"

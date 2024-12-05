@@ -12,13 +12,13 @@ $LOG_COMMAND "start"
 log stream --predicate 'process == "bluetoothd" AND eventMessage contains "PowerState:"' | while read -r line
   do
     # Log the incoming line
-    $LOG_COMMAND "$line"
+    #$LOG_COMMAND "$line"
 
     OFF=$( [[ "$line" == *"PowerState:0"* ]] && echo "true" || echo "false" )
     ON=$( [[ "$line" == *"PowerState:1"* ]] && echo "true" || echo "false" )
 
-    $LOG_COMMAND "BLUETOOTH OFF $OFF"
-    $LOG_COMMAND "BLUETOOTH ON $ON"
+    #$LOG_COMMAND "BLUETOOTH OFF $OFF"
+    #$LOG_COMMAND "BLUETOOTH ON $ON"
 
     if [[ "$OFF" == "true" && "$BLUETOOTH_STATE" != "OFF" ]]; then
         $LOG_COMMAND "Bluetooth off..."
