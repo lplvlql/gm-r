@@ -22,7 +22,7 @@ func appWindowID(appName: String, windowIndex: Int = 0) -> Int {
 let arguments: [String] = CommandLine.arguments
 
 let appName: String = arguments[1]
-let windowIndex: Int = Int(arguments[2]) ?? 0
+let windowIndex: Int = (arguments.count > 2) ? Int(arguments[2]) ?? 0 : 0
 let windowID: Int = appWindowID(appName: appName, windowIndex: windowIndex)
 
 print(windowID)
