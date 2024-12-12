@@ -1,0 +1,647 @@
+Nintendo Entertainment System
+2.84 Mean
+0.59 Deviation
+3.35 Threshold
+-
+4.06 Super Mario Bros. 3
+3.88 Dragon Warrior IV
+3.84 Mr. Gimmick
+3.71 Tecmo Super Bowl
+3.71 Mike Tyson's Punch-Out!!
+3.69 Little Samson
+3.68 Dragon Warrior III
+3.61 Disney's DuckTales
+3.60 Disney's DuckTales 2
+3.60 Ninja Gaiden II: The Dark Sword of Chaos
+3.58 Gun Nac
+3.57 Kirby's Adventure
+3.57 Fire 'n Ice
+3.57 The Guardian Legend
+3.55 Teenage Mutant Ninja Turtles III: The Manhattan Project
+3.52 Mega Man 6
+3.52 Felix the Cat
+3.52 Metal Storm
+3.49 Super Mario Bros.
+3.49 Disney's Chip 'n Dale Rescue Rangers 2
+3.48 Disney's Chip 'n Dale Rescue Rangers
+3.48 Mighty Final Fight
+3.47 Crystalis
+3.46 Mega Man 4
+3.46 Vice: Project Doom
+3.45 Maniac Mansion
+3.42 Castlevania
+3.42 Mega Man 3
+3.42 Battle City
+3.41 Tiny Toon Adventures
+3.40 King's Quest V: Absence Makes the Heart Go Yonder!
+3.39 Batman: The Video Game
+3.37 StarTropics
+3.37 Gargoyle's Quest II
+3.36 Adventure Island 3
+
+Sega Master System
+2.64 Mean
+0.57 Deviation
+3.18 Threshold
+-
+3.73 Land of Illusion Starring Mickey Mouse
+3.67 Ultima IV: Quest of the Avatar
+3.64 Wonder Boy III: The Dragon's Trap
+3.49 OutRun
+3.40 Asterix
+3.38 Phantasy Star
+3.36 Ivan ''Ironman'' Stewart's Super Off Road
+3.36 Speedball 2: Brutal Deluxe
+3.36 Power Strike II
+3.33 Sagaia
+3.31 Zillion
+3.26 Legend of Illusion Starring Mickey Mouse
+3.25 Forgotten Worlds
+3.25 Golvellius: Valley of Doom
+3.23 Fantasy Zone II
+3.22 Jurassic Park
+3.21 The Ancient Land of Ys
+3.20 Mercs
+3.19 Ayrton Senna's Super Monaco GP II
+
+PC Engine
+2.88 Mean
+0.56 Deviation
+3.35 Threshold
+-
+3.82 Devil's Crush
+3.81 Final Match Tennis
+3.78 Galaga '90
+3.76 Gunhed
+3.74 Dragon's Curse
+3.71 Bomberman '94
+3.70 Soldier Blade
+3.69 Galaga '88
+3.58 Gekibo: Gekisha Boy
+3.57 Magical Chase
+3.56 Metal Stoker
+3.54 Air Zonk
+3.54 Chew-Man-Fu
+3.54 New Adventure Island
+3.52 Volfied
+3.52 Parasol Stars: The Story of Bubble Bobble III
+3.49 The Legend of Valkyrie
+3.47 Military Madness
+3.45 Ninja Spirit
+3.44 Final Lap Twin
+3.43 Power Drift
+3.41 Super Star Soldier
+3.40 Detana!! TwinBee
+3.38 Alien Crush
+3.38 Gomola Speed
+
+Sega Genesis
+3.03 Mean
+0.63 Deviation
+3.53 Threshold
+-
+4.02 Contra: Hard Corps
+4.02 Alien Soldier
+3.99 Phantasy Star IV: The End of the Millennium
+3.99 Gunstar Heroes
+3.98 Shining Force II
+3.92 Thunder Force IV
+3.86 Shinobi III: Return of the Ninja Master
+3.84 Sonic the Hedgehog 3
+3.79 Rocket Knight Adventures
+3.78 International Superstar Soccer Deluxe
+3.78 Bare Knuckle III
+3.76 Castlevania: Bloodlines
+3.75 Monster World IV
+3.69 NHL '94
+3.68 Ranger X
+3.68 Super Street Fighter II: The New Challengers
+3.67 Shining Force
+3.66 M.U.S.H.A.
+3.65 NBA Jam
+3.62 Dynamite Headdy
+3.59 Top Gear 2
+3.58 Rock n' Roll Racing
+3.57 Crusader of Centy
+3.56 Teenage Mutant Ninja Turtles: The HyperStone Heist
+3.56 Thunder Force III
+3.56 Ristar
+3.55 World of Illusion Starring Mickey Mouse and Donald Duck
+
+PC Engine CD
+3.13 Mean
+0.57 Deviation
+3.56 Threshold
+-
+4.38 Xak III: The Eternal Recurrence
+4.11 Castlevania: Rondo of Blood
+4.00 Fray in Magical Adventure CD: Xak Gaiden
+3.94 Ys IV: The Dawn of Ys
+3.93 Princess Maker 2
+3.90 Popful Mail
+3.82 Linda Cube
+3.75 Rayxanber III
+3.73 Tokimeki Memorial
+3.72 Private Eye Dol
+3.70 Lords of Thunder
+3.70 Loom
+3.68 Bazaru De Gozaru No Game De Gozaru
+3.67 Far East of Eden II: Manji-maru
+3.67 Galaxy Fraulein Yuna 2: Eien no Princess
+3.67 Star Parodier
+3.66 Might and Magic III: Isles of Terra
+3.66 Gate of Thunder
+3.64 The Manhole
+3.60 The Legend of Xanadu
+3.57 Doukyuusei
+
+Game Boy
+2.87 Mean
+0.55 Deviation
+3.34 Threshold
+-
+4.24 The Machine
+4.00 The Legend of Zelda: Link's Awakening
+3.95 Kaeru no Tame ni Kane wa Naru
+3.67 Mega Man V
+3.66 Cave Noire
+3.61 Super Mario Land 2: 6 Golden Coins
+3.61 Pokémon Blue Version
+3.57 Catrap
+3.55 Mole Mania
+3.54 Picross 2
+3.53 Game Boy Camera
+3.51 Wario Land II
+3.50 NBA Live 96
+3.49 Pokémon Red Version
+3.46 Mario's Picross
+3.40 New Ghostbusters II
+3.39 Wario Land: Super Mario Land 3
+3.38 Jurassic Park Part 2: The Chaos Continues
+
+Sega Game Gear
+2.52 Mean
+0.64 Deviation
+3.15 Threshold
+-
+4.00 Super Space Invaders
+3.82 GG Aleste 3
+3.60 Royal Stone: Hirakareshi Toki no Tobira
+3.37 Shining Force Gaiden: Final Conflict
+3.36 Shinobi II: The Silent Fury
+3.35 PGA Tour Golf II
+3.33 Moldorian: Hikari to Yami no Sister
+3.27 The G.G. Shinobi
+3.27 Devilish
+3.26 Shining Force: The Sword of Hajya
+3.23 Asterix and the Secret Mission
+3.23 GG Aleste
+3.17 Sylvan Tale
+
+Super Nintendo Entertainment System
+3.40 Mean
+0.47 Deviation
+3.70 Threshold
+-
+4.48 Chrono Trigger
+4.31 Super Metroid
+4.27 EarthBound
+4.26 Donkey Kong Country 2: Diddy's Kong Quest
+4.23 Super Mario World
+4.17 Terranigma
+4.16 Mega Man X
+4.10 Super Mario World 2: Yoshi's Island
+4.09 The Legend of Zelda: A Link to the Past
+4.06 Super Mario RPG: Legend of the Seven Stars
+3.92 Donkey Kong Country
+3.88 Trials of Mana
+3.88 Lufia II: Rise of the Sinistrals
+3.82 Mega Man X2
+3.74 Donkey Kong Country 3: Dixie Kong's Double Trouble!
+3.71 Hagane: The Final Conflict
+
+Sega CD
+2.57 Mean
+0.74 Deviation
+3.29 Threshold
+-
+4.12 Dark Wizard
+3.92 Lunar: Eternal Blue
+3.73 Captain Tsubasa
+3.70 Urusei Yatsura: Dear My Friends
+3.63 Dune
+3.63 Lunar: The Silver Star
+3.58 Android Assault: The Revenge of Bari-Arm
+3.37 Sonic CD
+3.34 Advanced Dungeons & Dragons: Eye of the Beholder
+
+Neo Geo CD
+3.46 Mean
+0.33 Deviation
+3.66 Threshold
+-
+4.23 Neo Turf Masters
+3.99 The Last Blade 2
+3.87 The King of Fighters '98
+3.87 Real Bout Fatal Fury Special
+3.70 The King of Fighters '97
+3.69 Real Bout Fatal Fury 2: The Newcomers
+3.67 Real Bout Fatal Fury
+
+Sega Saturn
+3.37 Mean
+0.62 Deviation
+3.78 Threshold
+-
+4.37 Panzer Dragoon Saga
+4.17 Mega Man X4
+4.17 Radiant Silvergun
+4.17 Baroque
+4.14 Tactics Ogre: Let Us Cling Together
+4.09 Shining Force III
+4.09 Saturn Bomberman
+4.08 Riven: The Sequel to Myst
+4.05 Battle Garegga
+3.99 Panzer Dragoon II Zwei
+3.99 Grandia
+3.94 Puyo Puyo Tsuu
+3.93 Quake
+3.93 Sakura Taisen
+3.93 Thunder Force V
+3.92 Bulk Slash
+3.81 DoDonPachi
+
+PlayStation
+3.47 Mean
+0.57 Deviation
+3.82 Threshold
+-
+4.43 Suikoden II
+4.41 Castlevania: Symphony of the Night
+4.37 Moon: Remix RPG Adventure
+4.34 Final Fantasy IX
+4.30 Final Fantasy Tactics
+4.28 Xenogears
+4.27 Metal Gear Solid
+4.25 Final Fantasy VII
+4.22 Resident Evil 2
+4.22 Ridge Racer Type 4
+4.18 Persona 2: Eternal Punishment
+4.11 Valkyrie Profile
+4.10 Klonoa: Door to Phantomile
+4.08 Silent Hill
+4.07 Harvest Moon: Back to Nature
+4.06 Serial Experiments Lain
+4.04 Ace Combat 3: Electrosphere
+4.03 Chrono Cross
+4.01 Crash Team Racing
+4.01 Breath of Fire IV
+4.00 Breath of Fire III
+3.99 Vagrant Story
+3.99 Oddworld: Abe's Exoddus
+3.98 Persona 2: Innocent Sin
+3.97 Tony Hawk's Pro Skater 2
+3.97 Tekken 3
+3.97 Crash Bandicoot: Warped
+3.96 The Neverhood
+3.96 Spyro 2: Ripto's Rage!
+3.93 Parasite Eve
+3.92 Spyro: Year of the Dragon
+3.91 Um Jammer Lammy
+3.90 Mega Man Legends 2
+3.90 Crash Bandicoot 2: Cortex Strikes Back
+3.89 Resident Evil 3: Nemesis
+3.89 Gran Turismo 2
+3.87 Vib-Ribbon
+3.85 The Legend of Dragoon
+3.83 Worms Armageddon
+
+Virtual Boy
+2.52 Mean
+0.75 Deviation
+3.26 Threshold
+-
+3.66 Virtual Boy Wario Land
+3.28 Jack Bros.
+
+Nintendo 64
+3.14 Mean
+0.63 Deviation
+3.61 Threshold
+-
+4.44 The Legend of Zelda: Majora's Mask
+4.34 The Legend of Zelda: Ocarina of Time
+4.12 Paper Mario
+4.10 Super Mario 64
+4.06 WWF No Mercy
+4.03 Banjo-Kazooie
+3.92 Star Fox 64
+3.90 F-Zero X
+3.86 Perfect Dark
+3.83 Goemon's Great Adventure
+3.82 Ogre Battle 64: Person of Lordly Caliber
+3.77 Mischief Makers
+3.77 Banjo-Tooie
+3.77 Mario Party 2
+3.76 WCW/nWo Revenge
+3.74 Harvest Moon 64
+3.73 Snowboard Kids 2
+3.72 Kirby 64: The Crystal Shards
+3.72 Diddy Kong Racing
+3.71 NFL Blitz 2000
+3.71 WWF WrestleMania 2000
+3.70 Mario Party 3
+3.67 NFL Blitz
+3.67 Vigilante 8: 2nd Offense
+3.67 Rocket: Robot on Wheels
+3.67 Conker's Bad Fur Day
+3.63 GoldenEye 007
+3.61 Doom 64
+
+Neo Geo Pocket
+2.87 Mean
+0.32 Deviation
+3.14 Threshold
+-
+3.19 King of Fighters R-1
+
+Game Boy Color
+2.80 Mean
+0.67 Deviation
+3.38 Threshold
+-
+4.07 Dragon Warrior Monsters 2: Tara's Adventure
+3.91 Pokémon Silver Version
+3.88 Dragon Warrior Monsters 2: Cobi's Journey
+3.85 Dragon Warrior Monsters 2
+3.83 Pokémon Gold Version
+3.74 The Legend of Zelda: Oracle of Ages
+3.69 The Legend of Zelda: Oracle of Seasons
+3.68 Wario Land 3
+3.61 Hamtaro: Ham-Hams Unite!
+3.56 Pokémon Puzzle Challenge
+3.50 Power Quest
+3.47 Survival Kids
+3.43 Looney Tunes Collector: Alert!
+3.41 Opossum Country
+
+Sega Dreamcast
+3.40 Mean
+0.58 Deviation
+3.77 Threshold
+-
+4.14 Skies of Arcadia
+4.11 Marvel vs. Capcom 2: New Age of Heroes
+4.09 Garou: Mark of the Wolves
+4.08 Rez
+4.04 Unreal Tournament
+4.02 Space Channel 5: Part 2
+4.00 Napple Tale: Arsia in Daydream
+3.99 Project Justice
+3.99 Shenmue II
+3.99 Quake III Arena
+3.96 Grandia II
+3.94 L.O.L.: Lack of Love
+3.94 Phantasy Star Online
+3.84 The King of Fighters 2002
+3.84 Illbleed
+3.83 Virtua Tennis 2
+3.82 D2
+3.81 Virtua Tennis
+3.79 Cosmic Smash
+3.78 Shenmue
+
+Neo Geo Pocket Color
+3.34 Mean
+0.33 Deviation
+3.56 Threshold
+-
+4.08 SNK vs. Capcom: The Match of the Millenium - Best Collection
+3.81 Gals Fighters
+3.80 SNK vs. Capcom Card Fighters' Clash - SNK Card Fighter's Version
+3.79 SNK vs. Capcom Card Fighters' Clash - Capcom Card Fighter's Version
+3.65 SNK vs Capcom Cardfighters Clash 2: Expand Edition
+3.64 SNK vs. Capcom: The Match of the Millennium
+3.62 SNK Gals' Fighters
+
+PlayStation 2
+3.53 Mean
+0.54 Deviation
+3.85 Threshold
+-
+4.58 Metal Gear Solid 3: Snake Eater
+4.58 Silent Hill 2
+4.46 Metal Gear Solid 2: Sons of Liberty
+4.40 Shadow of the Colossus
+4.38 We Love Katamari
+4.32 Kingdom Hearts II
+4.29 Killer7
+4.28 Devil May Cry 3: Dante's Awakening
+4.26 Katamari Damacy
+4.25 God Hand
+4.24 Silent Hill 3
+4.23 Shin Megami Tensei: Digital Devil Saga 2
+4.21 Dragon Quest VIII: Journey of the Cursed King
+4.20 Shin Megami Tensei: Nocturne
+4.19 Fatal Frame II: Crimson Butterfly
+4.17 Klonoa 2: Lunatea's Veil
+4.17 Grand Theft Auto: San Andreas
+4.16 Ōkami
+4.15 Sly 2: Band of Thieves
+4.15 Tom Clancy's Splinter Cell: Chaos Theory
+4.14 Final Fantasy X
+4.12 Tales of the Abyss
+4.11 Burnout 3: Takedown
+4.11 Max Payne 2: The Fall of Max Payne
+4.09 Star Wars: Battlefront II
+4.08 Shin Megami Tensei: Digital Devil Saga
+4.07 Ratchet & Clank: Up Your Arsenal
+4.05 Yakuza 2
+4.05 God of War II
+4.05 Dragon Ball Z: Budokai Tenkaichi 3
+4.04 Ratchet & Clank: Going Commando
+4.04 Hitman: Blood Money
+4.02 Persona 4
+4.02 Sly 3: Honor Among Thieves
+4.02 SSX 3
+4.02 Ico
+4.01 Rock Band 2
+4.00 Guitar Hero III: Legends of Rock
+3.99 Tekken 5
+3.99 Psychonauts
+3.98 Max Payne
+3.98 Bully
+3.96 Persona 3
+3.96 PaRappa the Rapper 2
+3.95 TimeSplitters 2
+3.95 Def Jam: Fight for NY
+3.94 Midnight Club 3: DUB Edition
+3.92 Need for Speed: Underground 2
+3.91 Beyond Good & Evil
+3.91 SSX Tricky
+3.89 Tony Hawk's Underground
+3.88 Burnout Revenge
+3.86 Grand Theft Auto: Vice City
+3.85 Naruto Shippuden: Ultimate Ninja 5
+
+Game Boy Advance
+3.28 Mean
+0.64 Deviation
+3.72 Threshold
+-
+4.55 Mother 3
+4.33 Mega Man Zero 3
+4.28 Mega Man Battle Network 6: Cybeast Falzar
+4.25 Castlevania: Aria of Sorrow
+4.18 Mega Man Battle Network 6: Cybeast Gregar
+4.13 Mega Man Battle Network 3 White
+4.13 Golden Sun: The Lost Age
+4.10 Wario Land 4
+4.06 Advance Wars 2: Black Hole Rising
+4.06 Hamtaro: Ham-Ham Heartbreak
+4.06 Mario & Luigi: Superstar Saga
+4.05 Metroid Fusion
+4.04 Mega Man Battle Network 3 Blue
+3.97 WarioWare: Twisted!
+3.95 Mega Man Zero 4
+3.94 Harvest Moon: Friends of Mineral Town
+3.94 The Legend of Zelda: The Minish Cap
+3.91 Final Fantasy Tactics Advance
+3.90 Summon Night: Swordcraft Story 2
+3.89 Rhythm Tengoku
+3.89 Mega Man Battle Network 5: Double Team
+3.89 Mega Man Battle Network 5: Team Colonel
+3.87 WarioWare, Inc.: Mega Microgames!
+3.86 Golden Sun
+3.81 Pokémon Sapphire Version
+3.80 Hamtaro: Rainbow Rescue
+3.80 Astro Boy: Omega Factor
+3.79 Pokémon Ruby Version
+3.77 Mega Man Zero 2
+3.76 Fire Emblem: The Blazing Blade
+3.76 Fire Emblem: The Sacred Stones
+3.76 Pokémon Mystery Dungeon: Red Rescue Team
+3.75 Dragon Ball: Advanced Adventure
+3.73 Advance Wars
+
+Nintendo GameCube
+3.48 Mean
+0.50 Deviation
+3.78 Threshold
+-
+4.42 Paper Mario: The Thousand-Year Door
+4.28 The Legend of Zelda: The Wind Waker
+4.27 Metroid Prime
+4.20 F-Zero GX
+4.19 Fire Emblem: Path of Radiance
+4.13 Chibi-Robo!
+4.11 NBA Street Vol. 2
+4.10 The Legend of Zelda: Twilight Princess
+4.09 Super Monkey Ball 2
+4.07 Pikmin 2
+4.05 Metroid Prime 2: Echoes
+4.04 Super Smash Bros. Melee
+4.02 TimeSplitters: Future Perfect
+3.98 Mario Kart: Double Dash!!
+3.91 Tales of Symphonia
+3.87 Eternal Darkness: Sanity's Requiem
+
+Nintendo DS
+3.46 Mean
+0.53 Deviation
+3.78 Threshold
+-
+4.47 Ghost Trick: Phantom Detective
+4.43 Ace Attorney Investigations 2
+4.37 Mega Man Star Force 3: Black Ace
+4.35 Moero! Nekketsu Rhythm Damashii Osu! Tatakae! Ouendan 2
+4.31 Pokémon White Version 2
+4.29 Professor Layton and the Unwound Future
+4.28 Pokémon Black Version 2
+4.27 The World Ends with You
+4.22 Last Window: The Secret of Cape West
+4.22 Mario & Luigi: Bowser's Inside Story
+4.21 Zero Escape: Nine Hours, Nine Persons, Nine Doors
+4.14 Pokémon White Version
+4.13 Shin Megami Tensei: Strange Journey
+4.10 Inazuma Eleven 2: Blizzard
+4.10 Inazuma Eleven 2: Firestorm
+4.09 Hotel Dusk: Room 215
+4.09 Pokémon Black Version
+4.08 Rhythm Heaven
+4.07 Pokémon Mystery Dungeon: Explorers of Time
+4.07 Rune Factory 3: A Fantasy Harvest Moon
+4.06 Solatorobo: Red the Hunter
+4.06 Tetris DS
+4.04 Picross 3D
+4.03 Castlevania: Order of Ecclesia
+4.02 Pokémon Mystery Dungeon: Explorers of Darkness
+4.00 Dragon Quest Heroes: Rocket Slime
+3.99 Elite Beat Agents
+3.99 Osu! Tatakae! Ouendan
+3.99 Radiant Historia
+3.95 Dragon Quest IX: Sentinels of the Starry Skies
+3.94 Shin Megami Tensei: Devil Survivor
+3.90 Professor Layton and the Diabolical Box
+3.89 Advance Wars: Dual Strike
+3.88 Castlevania: Portrait of Ruin
+3.83 Dragon Quest Monsters: Joker 2
+3.81 Mario Kart DS
+3.81 Apollo Justice: Ace Attorney
+3.80 Custom Robo Arena
+3.80 Final Fantasy Tactics A2: Grimoire of the Rift
+3.79 Professor Layton and the Curious Village
+
+PlayStation Portable
+3.38 Mean
+0.51 Deviation
+3.71 Threshold
+-
+4.41 The Legend of Heroes: Trails in the Sky SC
+4.24 Steins;Gate
+4.23 OutRun 2006: Coast 2 Coast
+3.89 The Warriors
+3.89 Dissidia 012 Final Fantasy
+3.75 Kingdom Hearts Birth by Sleep
+
+Nintendo Wii
+3.43 Mean
+0.58 Deviation
+3.79 Threshold
+-
+4.37 Super Mario Galaxy
+4.35 Rhythm Heaven Fever
+4.35 Super Mario Galaxy 2
+4.22 Xenoblade Chronicles
+4.04 Fire Emblem: Radiant Dawn
+3.99 Kirby's Return to Dream Land
+3.99 Wii Sports Resort
+3.95 No More Heroes
+3.94 Mario Kart Wii
+3.93 WarioWare: Smooth Moves
+3.91 Donkey Kong Country Returns
+3.86 Super Paper Mario
+3.84 Rayman Origins
+3.82 Super Smash Bros. Brawl
+3.81 Metroid Prime 3: Corruption
+
+Nintendo 3DS
+3.38 Mean
+0.57 Deviation
+3.75 Threshold
+-
+4.18 Kirby: Planet Robobot
+4.17 Kid Icarus: Uprising
+4.14 Shin Megami Tensei IV
+4.13 The Legend of Zelda: A Link Between Worlds
+4.07 Zero Escape: Virtue's Last Reward
+4.05 Animal Crossing: New Leaf
+4.04 Terraria
+3.99 Shovel Knight
+3.93 Fantasy Life
+3.92 WarioWare Gold
+3.88 Fire Emblem: Awakening
+3.87 Bravely Second: End Layer
+3.86 Theatrhythm Final Fantasy: Curtain Call
+3.82 Tomodachi Life
+3.80 Shantae and the Pirate's Curse

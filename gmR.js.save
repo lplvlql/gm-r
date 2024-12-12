@@ -1,0 +1,46 @@
+const axios = require('axios');
+const cheerio = require('cheerio');
+
+// Function to scrape user ratings from the website
+async function scrapeUserRatings(url) {
+    try {
+        const response = await axios.get(url);
+        const $ = cheerio.load(response.data);
+
+	const selectorPath= 'body > main > div > div.row.show-release.toggle-fade.mx-n1 > div > a';
+	const selectedElements = $(selectorPath);
+	
+	const userRatingsData = [];
+        selectedElements.each((index, element) => {
+            userRatingsData.push($(element).attr('href'));
+        });
+
+        // Return the extracted user ratings data
+        return userRatingsData;
+    } catch (error) {
+        console.error('Error scraping user ratings:', error);
+        return null;
+    }
+}
+
+// Main function to orchestrate the scraping process
+async function main() {
+
+    const url = 'https://www.backloggd.com/games/lib/popular/release_platform:gbc?page=1'; // Replace with the actual URL
+    const userRatingsData = await scrapeUserRatings(url);
+    if (userRatingsData) {
+        console.log('User ratings data:', userRatingsData);
+
+
+	const url = 'https://www.backloggd.com/games/lib/popular/release_platform:g$
+        const userRatingsData = await scrapeUserRatings(url);
+        if (userRatingsData) {
+            console.log('User ratings data:', userRatingsData);
+
+    } else {
+        console.log('Failed to scrape user ratings.');
+    }
+}
+
+// Execute the main function
+main();

@@ -1,0 +1,736 @@
+Nintendo Entertainment System
+-
+Micro Mages - skip reason: not_available
+Super Mario Bros. / Duck Hunt - skip reason: bundle
+Super Mario Bros. / Duck Hunt / World Class Track Meet - skip reason: bundle
+Tetris - skip reason: remake
+Pac-Man Championship Edition - skip reason: remake
+Mega Man 2 - skip reason: expanded_game
+Jackal - skip reason: expanded_game
+Teenage Mutant Ninja Turtles II: The Arcade Game - skip reason: expanded_game
+Alwa's Awakening: The 8-Bit Edition - skip reason: port
+Super C - skip reason: port
+Ms. Pac-Man - skip reason: port
+Ufouria: The Saga - skip reason: port
+Shatterhand - skip reason: port
+Contra - skip reason: port
+Castlevania III: Dracula's Curse - skip reason: port
+Punch-Out!! - skip reason: port
+Ninja Gaiden - skip reason: port
+Snow Brothers - skip reason: port
+Ninja Gaiden III: The Ancient Ship of Doom - skip reason: port
+Tecmo Cup Soccer Game - skip reason: port
+Panic Restaurant - skip reason: port
+River City Ransom - skip reason: port
+Probotector - skip reason: port
+Bionic Commando - skip reason: port
+Bubble Bobble - skip reason: port
+Life Force - skip reason: port
+
+Sega Master System
+-
+Battle Mania Daiginjou - skip reason: not_available
+Ms. Pac-Man - skip reason: re_release
+Rainbow Islands: The Story of Bubble Bobble 2 - skip reason: not_available
+Montezuma's Revenge - skip reason: re_release
+Where in the World Is Carmen Sandiego? - skip reason: re_release
+Bubble Bobble - skip reason: re_release
+Turma da Mônica em: O Resgate - skip reason: port
+Gain Ground - skip reason: port
+Castle of Illusion Starring Mickey Mouse - skip reason: port
+Streets of Rage 2 - skip reason: port
+Baku Baku - skip reason: port
+Ninja Gaiden - skip reason: re_release
+Street Fighter II - skip reason: port
+
+PC Engine
+-
+Rainbow Islands: The Story of Bubble Bobble 2 - skip reason: re_release
+Dragon Ball Z: Idainaru Son Goku Densetsu - skip reason: not_available
+OutRun - skip reason: re_release
+Dragon Slayer: The Legend of Heroes II - skip reason: not_available
+Blazing Lazers - skip reason: remake
+Langrisser: Hikari no Matsuei - skip reason: remaster
+Snatcher - skip reason: expanded_game
+R-Type II - skip reason: port
+Gradius II: Gofer no Yabou - skip reason: port
+Nekketsu Koukou Dodgeball-bu: PC Bangai-hen - skip reason: port
+Ninja Ryuukenden - skip reason: port
+R-Type I - skip reason: port
+Parodius Da!: Shinwa kara Owarai he - skip reason: port
+R-Type - skip reason: port
+Mega Bomberman - skip reason: port
+
+Sega Genesis
+-
+Battle Mania Daiginjou - skip reason: re_release
+Streets of Rage 2 - skip reason: re_release
+Sonic the Hedgehog 2 - skip reason: re_release
+The Disney Collection: Quackshot Starring Donald Duck & Castle of Illusion Starring Mickey Mouse - skip reason: bundle
+Sonic the Hedgehog 3 & Knuckles - skip reason: bundle
+6-Pak - skip reason: bundle
+Mega Man: The Sequel Wars - skip reason: bundle
+Williams Arcade's Greatest Hits - skip reason: bundle
+Sonic & Knuckles - skip reason: standalone_expansion
+Pirates! Gold - skip reason: remake
+NBA Jam Tournament Edition - skip reason: expanded_game
+Ultimate Mortal Kombat 3 - skip reason: expanded_game
+Street Fighter II: Champion Edition - skip reason: expanded_game
+Street Fighter II: Special Champion Edition - skip reason: expanded_game
+Dune: The Battle for Arrakis - skip reason: port
+Dragon's Fury - skip reason: port
+Puyo Puyo 2 - skip reason: port
+Snow Bros.: Nick & Tom - skip reason: port
+The Lost Vikings - skip reason: port
+Sunset Riders - skip reason: port
+Ghouls 'n Ghosts - skip reason: port
+
+PC Engine CD
+-
+Bomberman '94 - skip reason: re_release
+Laplace no Ma - skip reason: re_release
+Wizardry V: Heart of the Maelstrom - skip reason: re_release
+Nobunaga's Ambition: Lord of Darkness - skip reason: not_available
+Ys: Book I & II - skip reason: bundle
+Gain Ground SX - skip reason: remaster
+Downtown Nekketsu Monogatari - skip reason: port
+Strider Hiryuu - skip reason: port
+Gradius II: Gofer no Yabou - skip reason: re_release
+The Dynastic Hero - skip reason: port
+
+Game Boy
+-
+He Fucked the Girl Out of Me - skip reason: not_available
+My Dinner with André - skip reason: not_available
+Pokémon Green Version - skip reason: not_available
+Donkey Kong - skip reason: re_release
+Pokémon Yellow Version: Special Pikachu Edition - skip reason: expanded_game
+Tetris - skip reason: re_release
+Yoshi no Panepon - skip reason: port
+NBA Jam - skip reason: re_release
+Battle City - skip reason: re_release
+Battle Arena Toshinden - skip reason: port
+Money Idol Exchanger - skip reason: port
+Gremlins 2: The New Batch - skip reason: re_release
+Tetris Plus - skip reason: port
+Micro Machines 2: Turbo Tournament - skip reason: port
+Pipe Dream - skip reason: port
+Tetris Attack - skip reason: port
+FIFA International Soccer - skip reason: port
+Tetris Blast - skip reason: port
+Disney's DuckTales 2 - skip reason: re_release
+Parodius - skip reason: port
+
+Sega Game Gear
+-
+Land of Illusion Starring Mickey Mouse - skip reason: re_release
+Galaga '88 - skip reason: re_release
+Power Strike II - skip reason: re_release
+Ms. Pac-Man - skip reason: re_release
+OutRun - skip reason: re_release
+Ivan ''Ironman'' Stewart's Super Off Road - skip reason: re_release
+Mighty Morphin Power Rangers: The Movie - skip reason: re_release
+Bubble Bobble - skip reason: re_release
+Legend of Illusion Starring Mickey Mouse - skip reason: re_release
+Jurassic Park - skip reason: re_release
+Fatal Fury Special - skip reason: re_release
+Ayrton Senna's Super Monaco GP II - skip reason: re_release
+Super Monaco GP - skip reason: re_release
+Psychic World - skip reason: re_release
+Space Harrier - skip reason: re_release
+Mappy - skip reason: re_release
+Sonic 2 In 1 - skip reason: bundle
+Dr. Robotnik's Mean Bean Machine - skip reason: re_release
+Puyo Puyo - skip reason: re_release
+Evander Holyfield's 'Real Deal' Boxing - skip reason: port
+Gunstar Heroes - skip reason: re_release
+NBA Jam - skip reason: re_release
+Ristar - skip reason: re_release
+Castle of Illusion Starring Mickey Mouse - skip reason: re_release
+Pac-Man - skip reason: re_release
+Shikinjoh - skip reason: port
+Madou Monogatari I: 3tsu no Madoukyuu - skip reason: port
+Streets of Rage 2 - skip reason: re_release
+Madou Monogatari III: Kyuukyoku Joou-sama - skip reason: port
+Madou Monogatari II: Arle 16-Sai - skip reason: port
+Baku Baku - skip reason: re_release
+Ecco the Dolphin - skip reason: re_release
+Columns - skip reason: re_release
+
+Super Nintendo Entertainment System
+-
+International Superstar Soccer Deluxe - skip reason: re_release
+Sunset Riders - skip reason: re_release
+Super Mario All-Stars + Super Mario World - skip reason: bundle
+Super Mario All-Stars - skip reason: bundle
+Kirby Super Star - skip reason: bundle
+Super Castlevania IV - skip reason: remake
+Super Mario Bros. 3 - skip reason: re_release
+Teenage Mutant Ninja Turtles IV: Turtles in Time - skip reason: expanded_game
+NBA Jam Tournament Edition - skip reason: re_release
+Final Fantasy III - skip reason: port
+Tetris Attack - skip reason: re_release
+Super Probotector: Alien Rebels - skip reason: port
+
+Sega CD
+-
+The Secret of Monkey Island - skip reason: re_release
+Lords of Thunder - skip reason: re_release
+NHL '94 - skip reason: re_release
+Might and Magic III: Isles of Terra - skip reason: re_release
+NBA Jam - skip reason: re_release
+Wing Commander - skip reason: re_release
+Romance of the Three Kingdoms III: Dragon of Destiny - skip reason: not_available
+Night Striker - skip reason: re_release
+Flashback: The Quest for Identity - skip reason: re_release
+Silpheed - skip reason: re_release
+Shining Force CD - skip reason: bundle
+Snatcher - skip reason: re_release
+Shin Megami Tensei - skip reason: re_release
+Popful Mail: Magical Fantasy Adventure - skip reason: port
+Final Fight CD - skip reason: port
+
+Neo Geo CD
+-
+Windjammers - skip reason: re_release
+Street Hoop - skip reason: re_release
+
+Sega 32X
+-
+Mortal Kombat II - skip reason: re_release
+Space Harrier - skip reason: re_release
+Blackthorne - skip reason: re_release
+WWF WrestleMania: The Arcade Game - skip reason: re_release
+Alien Trilogy - skip reason: re_release
+Pitfall: The Mayan Adventure - skip reason: re_release
+NBA Jam Tournament Edition - skip reason: re_release
+Doom - skip reason: re_release
+
+Sega Saturn
+-
+RayForce - skip reason: re_release
+Darius Gaiden - skip reason: re_release
+Elevator Action Returns - skip reason: not_available
+Princess Maker 2 - skip reason: re_release
+Real Bout Fatal Fury Special - skip reason: re_release
+YU-NO: A Girl Who Chants Love at the Bound of This World - skip reason: not_available
+Policenauts - skip reason: re_release
+Tempest 2000 - skip reason: re_release
+Shin Megami Tensei: Devil Summoner Special Box - skip reason: bundle
+Wizardry: Llylgamyn Saga - skip reason: bundle
+Capcom Generations - skip reason: bundle
+Thunder Force: Gold Pack 2 - skip reason: bundle
+Dungeons & Dragons Collection - skip reason: bundle
+Tokimeki Memorial: Forever With You - skip reason: remake
+Lunar 2: Eternal Blue Complete - skip reason: remake
+Lunar: Silver Star Story Complete - skip reason: remake
+Transport Tycoon Deluxe - skip reason: expanded_game
+Akumajou Dracula X: Gekka no Yasoukyoku - skip reason: expanded_game
+Darkstalkers 3 - skip reason: expanded_game
+Snatcher - skip reason: re_release
+NBA Jam Tournament Edition - skip reason: re_release
+Street Fighter Zero 3 - skip reason: port
+Metal Slug: Super Vehicle-001 - skip reason: port
+Street Fighter Alpha 2 Gold - skip reason: port
+Street Fighter Alpha 2 - skip reason: re_release
+Puyo Puyo SUN - skip reason: port
+Doom - skip reason: re_release
+
+PlayStation
+-
+Mega Man X4 - skip reason: re_release
+Riven: The Sequel to Myst - skip reason: re_release
+Grandia - skip reason: re_release
+The King of Fighters '98 - skip reason: re_release
+Spyro: Collector's Edition - skip reason: bundle
+Final Fantasy Collection - skip reason: bundle
+Wizardry: Llylgamyn Saga - skip reason: re_release
+Arc the Lad Collection - skip reason: bundle
+Final Fantasy Anthology - skip reason: bundle
+Tokimeki Memorial: Forever With You - skip reason: re_release
+Linda Cube Again - skip reason: remake
+Lunar 2: Eternal Blue Complete - skip reason: re_release
+Dragon Quest IV - skip reason: remake
+Transport Tycoon Deluxe - skip reason: re_release
+Chrono Trigger - skip reason: re_release
+Resident Evil 2: Dual Shock Ver. - skip reason: expanded_game
+Metal Gear Solid: Integral - skip reason: expanded_game
+Wipeout 3 Special Edition - skip reason: expanded_game
+Darkstalkers 3 - skip reason: re_release
+Snatcher - skip reason: re_release
+Rockman Complete Works: Rockman 4 - Aratanaru Yabou!! - skip reason: expanded_game
+NBA Jam Tournament Edition - skip reason: re_release
+Resident Evil: Director's Cut - skip reason: expanded_game
+Final Fantasy VI - skip reason: port
+Final Fantasy VII International - skip reason: port
+Metal Slug: Super Vehicle-001 - skip reason: re_release
+Final Fantasy IV - skip reason: port
+Metal Slug X - skip reason: port
+Street Fighter Alpha 2 Gold - skip reason: re_release
+Street Fighter Alpha 3 - skip reason: port
+Street Fighter Alpha 2 - skip reason: re_release
+Doom - skip reason: re_release
+Jarrett & Labonte Stock Car Racing - skip reason: port
+
+Virtual Boy
+-
+Panic Bomber - skip reason: re_release
+
+Nintendo 64
+-
+Sin and Punishment - skip reason: not_available
+Mystical Ninja Starring Goemon - skip reason: re_release
+Worms Armageddon - skip reason: re_release
+Rayman 2: The Great Escape - skip reason: re_release
+F-Zero X Expansion Kit - skip reason: expansion
+Super Mario 64: Shindou Pak Taiou Version - skip reason: expanded_game
+Puyo Puyo SUN - skip reason: re_release
+Tony Hawk's Pro Skater 3 - skip reason: re_release
+Bust-A-Move 2: Arcade Edition - skip reason: re_release
+
+Neo Geo Pocket
+-
+Cotton: Fantastic Night Dreams - skip reason: re_release
+
+Game Boy Color
+-
+The Machine - skip reason: re_release
+Metal Gear Solid - skip reason: re_release
+Pokémon Card GB2: Great Rocket-Dan Sanjou! - skip reason: not_available
+Dragon Warrior Monsters - skip reason: re_release
+Bust-a-Move 4 - skip reason: re_release
+Rainbow Islands: The Story of Bubble Bobble 2 - skip reason: re_release
+Mario Tennis - skip reason: re_release
+Crystalis - skip reason: re_release
+Mario Golf - skip reason: re_release
+Dragon Warrior I & II - skip reason: bundle
+Deja Vu I & II: The Casebooks of Ace Harding - skip reason: bundle
+R-Type DX - skip reason: bundle
+Dragon Warrior III - skip reason: re_release
+Pokémon Crystal Version - skip reason: expanded_game
+Pokémon Yellow Version: Special Pikachu Edition - skip reason: re_release
+Azure Dreams - skip reason: port
+Test Drive: Le Mans - skip reason: port
+Worms Armageddon - skip reason: re_release
+Wario Land II - skip reason: re_release
+Dragon Warrior I - skip reason: port
+Magical Tetris Challenge - skip reason: re_release
+Beatmania GB - skip reason: port
+TOCA Touring Car Championship - skip reason: port
+3-D Ultra Pinball: Thrillride - skip reason: port
+Space Invaders - skip reason: re_release
+
+Sega Dreamcast
+-
+Resident Evil 2 - skip reason: re_release
+Capcom vs. SNK 2: Mark of the Millennium 2001 - skip reason: not_available
+Age of Empires II: The Age of Kings - skip reason: not_available
+The Last Blade 2 - skip reason: re_release
+Tony Hawk's Pro Skater 2 - skip reason: re_release
+SoulCalibur - skip reason: re_release
+Resident Evil 3: Nemesis - skip reason: re_release
+Worms Armageddon - skip reason: re_release
+Ever17: The Out of Infinity - skip reason: not_available
+Worms World Party - skip reason: re_release
+Super Street Fighter II Turbo - skip reason: re_release
+Legacy of Kain: Soul Reaver - skip reason: re_release
+Age of Empires II: The Conquerors - skip reason: expansion
+Bangai-O - skip reason: remaster
+Phantasy Star Online Ver. 2 - skip reason: expanded_game
+Rayman 2: The Great Escape - skip reason: re_release
+Street Fighter III: 3rd Strike - skip reason: port
+Ikaruga - skip reason: port
+The King of Fighters: Dream Match 1999 - skip reason: port
+Sakura Taisen - skip reason: re_release
+Street Fighter Alpha 3 - skip reason: re_release
+The Typing of the Dead - skip reason: port
+
+Neo Geo Pocket Color
+-
+Neo Turf Masters - skip reason: re_release
+SNK vs. Capcom: Match of the Millennium - skip reason: re_release
+
+PlayStation 2
+-
+Capcom vs. SNK 2: Mark of the Millennium 2001 - skip reason: re_release
+Age of Empires II: The Age of Kings - skip reason: re_release
+Marvel vs. Capcom 2: New Age of Heroes - skip reason: re_release
+Garou: Mark of the Wolves - skip reason: re_release
+Half-Life - skip reason: re_release
+Quake III Arena - skip reason: re_release
+Tony Hawk's Pro Skater 3 - skip reason: re_release
+Sengoku Basara 2 Heroes - skip reason: expansion
+Metal Gear Solid: The Essential Collection - skip reason: bundle
+Kingdom Hearts II Final Mix+ - skip reason: bundle
+Super Robot Taisen OG: Original Generations - skip reason: bundle
+Mega Man X Collection - skip reason: bundle
+Space Channel 5 Special Edition - skip reason: bundle
+Metal Slug Anthology - skip reason: bundle
+Ef: A Fairy Tale of the Two. - skip reason: bundle
+Sonic Mega Collection Plus - skip reason: bundle
+Street Fighter Alpha Anthology - skip reason: bundle
+Crash Bandicoot Action Pack - skip reason: bundle
+Sonic Mega Collection - skip reason: bundle
+Grand Theft Auto: The Trilogy - skip reason: bundle
+Art of Fighting Anthology - skip reason: bundle
+Street Fighter Anniversary Collection - skip reason: bundle
+Samurai Shodown Anthology - skip reason: bundle
+Capcom Classics Collection Vol. 2 - skip reason: bundle
+Kishin Houkou Demonbane - skip reason: remake
+Dragon Quest V: Tenkuu no Hanayome - skip reason: remake
+The King of Fighters 2002: Unlimited Match - skip reason: remake
+Tales of Destiny - skip reason: remake
+Sega Ages 2500 Vol. 26: Dynamite Deka - skip reason: remaster
+Sega Ages 2500 Vol. 27: Panzer Dragoon - skip reason: remaster
+Metal Gear Solid 3: Subsistence - skip reason: expanded_game
+Kingdom Hearts II Final Mix - skip reason: expanded_game
+Metal Gear Solid 2: Substance - skip reason: expanded_game
+Silent Hill 2: Restless Dreams - skip reason: expanded_game
+Resident Evil 4 - skip reason: expanded_game
+Devil May Cry 3: Dante's Awakening - Special Edition - skip reason: expanded_game
+Fate/Stay Night: Réalta Nua - skip reason: expanded_game
+Final Fantasy X International - skip reason: expanded_game
+Midnight Club 3: DUB Edition Remix - skip reason: expanded_game
+Skies of Arcadia Legends - skip reason: expanded_game
+Final Fantasy XII International: Zodiac Job System - skip reason: expanded_game
+Persona 3: The Journey - skip reason: expanded_game
+Persona 3 FES - skip reason: expanded_game
+The King of Fighters '98: Ultimate Match - skip reason: expanded_game
+Tales of Destiny: Director's Cut - skip reason: expanded_game
+Gran Turismo 4 - skip reason: expanded_game
+SoulCalibur II - skip reason: expanded_game
+Virtua Fighter 4: Evolution - skip reason: expanded_game
+Guilty Gear XX Accent Core Plus - skip reason: expanded_game
+Kingdom Hearts Final Mix - skip reason: expanded_game
+Street Fighter III: 3rd Strike - skip reason: re_release
+Little Busters! Converted Edition - skip reason: port
+Need for Speed: Most Wanted - skip reason: port
+Street Fighter III: Third Strike - Limited Edition - skip reason: port
+Dance Dance Revolution Extreme 2 - skip reason: port
+Pro Evolution Soccer 2013 - skip reason: port
+Test Drive Unlimited - skip reason: port
+Metal Slug 3 - skip reason: port
+
+Game Boy Advance
+-
+Worms World Party - skip reason: re_release
+Castlevania Double Pack - skip reason: bundle
+Sega Arcade Gallery - skip reason: bundle
+Phantasy Star Collection - skip reason: bundle
+Super Mario World: Super Mario Advance 2 - skip reason: bundle
+Super Mario Advance 4: Super Mario Bros. 3 - skip reason: bundle
+The Legend of Zelda: A Link to the Past & Four Swords - skip reason: bundle
+Yoshi's Island: Super Mario Advance 3 - skip reason: bundle
+Activision Anthology - skip reason: re_release
+Super Mario World - skip reason: re_release
+Yoshi's Island - skip reason: remake
+Metroid: Zero Mission - skip reason: remake
+Donkey Kong Country 2 - skip reason: remake
+Pokémon LeafGreen Version - skip reason: remake
+Pokémon FireRed Version - skip reason: remake
+Donkey Kong Country - skip reason: re_release
+Shining Force: Resurrection of the Dark Dragon - skip reason: remake
+Final Fantasy VI Advance - skip reason: expanded_game
+Harvest Moon: More Friends of Mineral Town - skip reason: expanded_game
+Pokémon Emerald Version - skip reason: expanded_game
+The Legend of Zelda: A Link to the Past - skip reason: re_release
+Final Fantasy V Advance - skip reason: expanded_game
+Final Fantasy IV Advance - skip reason: expanded_game
+Need for Speed: Most Wanted - skip reason: re_release
+River City Ransom EX - skip reason: port
+Need for Speed: Underground 2 - skip reason: re_release
+Disney's Magical Quest 3 Starring Mickey & Donald - skip reason: port
+Shin Megami Tensei - skip reason: re_release
+Puyo Pop Fever - skip reason: re_release
+
+Nintendo GameCube
+-
+Resident Evil 4 - skip reason: re_release
+Killer7 - skip reason: re_release
+Resident Evil 2 - skip reason: re_release
+Klonoa 2: Lunatea's Veil - skip reason: re_release
+Tom Clancy's Splinter Cell: Chaos Theory - skip reason: re_release
+Capcom vs. SNK 2: Mark of the Millennium 2001 - skip reason: re_release
+SSX 3 - skip reason: re_release
+Tony Hawk's Pro Skater 3 - skip reason: re_release
+Luigi's Mansion - skip reason: re_release
+TimeSplitters 2 - skip reason: re_release
+Pikmin - skip reason: re_release
+Def Jam: Fight for NY - skip reason: re_release
+Need for Speed: Underground 2 - skip reason: re_release
+Beyond Good & Evil - skip reason: re_release
+SSX Tricky - skip reason: re_release
+Resident Evil 3: Nemesis - skip reason: re_release
+Tony Hawk's Underground - skip reason: re_release
+The Legend of Zelda: Collector's Edition - skip reason: bundle
+The Legend of Zelda: Ocarina of Time + The Legend of Zelda: Ocarina of Time - Master Quest: Two-game Bonus Disc! - skip reason: bundle
+Mega Man X Collection - skip reason: re_release
+Sonic Mega Collection - skip reason: re_release
+Mega Man Anniversary Collection - skip reason: re_release
+The Legend of Zelda: Ocarina of Time - Master Quest - skip reason: standalone_expansion
+Resident Evil - skip reason: re_release
+Skies of Arcadia Legends - skip reason: re_release
+SoulCalibur II - skip reason: re_release
+Animal Crossing - skip reason: expanded_game
+Sonic Adventure 2: Battle - skip reason: expanded_game
+Need for Speed: Most Wanted - skip reason: re_release
+Ikaruga - skip reason: re_release
+LEGO Star Wars II: The Original Trilogy - skip reason: re_release
+
+Nintendo DS
+-
+Inazuma Eleven 3: Team Ogre Attacks! - skip reason: not_available
+Mega Man Zero Collection - skip reason: bundle
+Drawn to Life Collection - skip reason: bundle
+Mega Man Battle Network 5: Double Team DS - skip reason: bundle
+Dragon Quest V: Hand of the Heavenly Bride - skip reason: remake
+Kirby Super Star Ultra - skip reason: remake
+Pokémon SoulSilver Version - skip reason: remake
+Pokémon HeartGold Version - skip reason: remake
+Dragon Quest IV: Chapters of the Chosen - skip reason: remake
+Chrono Trigger - skip reason: re_release
+Phoenix Wright: Ace Attorney - Trials and Tribulations - skip reason: expanded_game
+Pokémon Mystery Dungeon: Explorers of Sky - skip reason: expanded_game
+Pokémon Platinum Version - skip reason: expanded_game
+Phoenix Wright: Ace Attorney - skip reason: expanded_game
+Flower, Sun, and Rain: Murder and Mystery in Paradise - skip reason: port
+Plants vs. Zombies DS - skip reason: port
+Umihara Kawase Shun: Second Edition Complete - skip reason: port
+LEGO Star Wars: The Complete Saga - skip reason: port
+The Urbz: Sims in the City - skip reason: re_release
+
+PlayStation Portable
+-
+Suikoden II - skip reason: re_release
+Castlevania: Symphony of the Night - skip reason: re_release
+Final Fantasy IX - skip reason: re_release
+The Legend of Heroes: Trails in the Sky the 3rd - skip reason: not_available
+Metal Gear Solid - skip reason: re_release
+Final Fantasy VII - skip reason: re_release
+Resident Evil 2 - skip reason: re_release
+Ridge Racer Type 4 - skip reason: re_release
+428: Shibuya Scramble - skip reason: not_available
+Persona 2: Eternal Punishment - skip reason: re_release
+Dies Irae: Amantes Amentes - skip reason: not_available
+Castlevania: Rondo of Blood - skip reason: re_release
+Klonoa: Door to Phantomile - skip reason: re_release
+Star Wars: Battlefront II - skip reason: re_release
+Silent Hill - skip reason: re_release
+Harvest Moon: Back to Nature - skip reason: re_release
+Crash Team Racing - skip reason: re_release
+Sonic Robo Blast 2 - skip reason: not_available
+Grandia - skip reason: re_release
+Vagrant Story - skip reason: re_release
+Oddworld: Abe's Exoddus - skip reason: re_release
+Crash Bandicoot: Warped - skip reason: re_release
+Spyro 2: Ripto's Rage! - skip reason: re_release
+Midnight Club 3: DUB Edition - skip reason: re_release
+Parasite Eve - skip reason: re_release
+Spyro: Year of the Dragon - skip reason: re_release
+Um Jammer Lammy - skip reason: re_release
+The Legend of Heroes: Trails in the Sky - skip reason: re_release
+Mega Man Legends 2 - skip reason: re_release
+Crash Bandicoot 2: Cortex Strikes Back - skip reason: re_release
+Resident Evil 3: Nemesis - skip reason: re_release
+Danganronpa 2: Goodbye Despair - skip reason: not_available
+Vib-Ribbon - skip reason: re_release
+The Legend of Dragoon - skip reason: re_release
+Worms Armageddon - skip reason: re_release
+Dino Crisis 2 - skip reason: re_release
+Ever17: The Out of Infinity - skip reason: re_release
+Armored Core 3 - skip reason: re_release
+LSD: Dream Emulator - skip reason: re_release
+Legacy of Kain: Soul Reaver - skip reason: re_release
+Planetarian: The Reverie of a Little Planet - skip reason: re_release
+Tomba! - skip reason: re_release
+Spyro the Dragon - skip reason: re_release
+Parodius Portable - skip reason: bundle
+Puyo Puyo Box - skip reason: re_release
+Metal Slug Anthology - skip reason: re_release
+Salamander Portable - skip reason: bundle
+Gradius Collection - skip reason: bundle
+Samurai Shodown Anthology - skip reason: re_release
+TwinBee Portable - skip reason: bundle
+Final Fantasy IV: The Complete Collection - skip reason: bundle
+Capcom Classics Collection Remixed - skip reason: bundle
+Tactics Ogre: Let Us Cling Together - skip reason: re_release
+Tokimeki Memorial: Forever With You - skip reason: re_release
+Umineko no Naku Koro ni: Episode 1 - Legend of the Golden Witch - skip reason: remake
+Ys: The Oath in Felghana - skip reason: remake
+Lunar 2: Eternal Blue Complete - skip reason: re_release
+Corpse Party BloodCovered: ...Repeated Fear - skip reason: remake
+Pac-Man Championship Edition - skip reason: re_release
+Mega Man: Maverick Hunter X - skip reason: remake
+Castlevania: The Dracula X Chronicles - skip reason: remake
+Yggdra Union: We'll Never Fight Alone - skip reason: remake
+The Legend of Heroes: Trails to Azure - skip reason: remaster
+Star Ocean: Second Evolution - skip reason: remaster
+Metal Gear Solid: Integral - skip reason: re_release
+Final Fantasy Tactics: The War of the Lions - skip reason: expanded_game
+Persona 3 Portable - skip reason: expanded_game
+Monster Hunter Freedom Unite - skip reason: expanded_game
+Guilty Gear XX Accent Core Plus - skip reason: re_release
+Disgaea 2: Dark Hero Days - skip reason: expanded_game
+Resident Evil: Director's Cut - skip reason: re_release
+Chaos;Head Noah - skip reason: expanded_game
+Def Jam Fight For NY: The Takeover - skip reason: expanded_game
+Disgaea: Afternoon of Darkness - skip reason: expanded_game
+Final Fantasy VI - skip reason: re_release
+Gitaroo Man Lives! - skip reason: port
+Little Busters! Converted Edition - skip reason: re_release
+Final Fantasy VII International - skip reason: re_release
+Clannad - skip reason: port
+Valkyrie Profile: Lenneth - skip reason: port
+Final Fantasy IV - skip reason: re_release
+Pop'n Music Portable 2 - skip reason: port
+Breath of Fire III - skip reason: re_release
+Persona 2: Innocent Sin - skip reason: re_release
+Street Fighter Alpha 2 - skip reason: re_release
+Growlanser IV: Overreloaded - skip reason: port
+Street Fighter Alpha 3 MAX - skip reason: port
+LEGO Star Wars II: The Original Trilogy - skip reason: re_release
+Test Drive Unlimited - skip reason: re_release
+Pop'n Music Portable - skip reason: port
+Pro Evolution Soccer 2014 - skip reason: re_release
+Midnight Club: LA Remix - skip reason: port
+Resident Evil: Director's Cut Dual Shock Ver. - skip reason: re_release
+EbiKore+ Amagami - skip reason: re_release
+Tekken: Dark Resurrection - skip reason: port
+LEGO Batman: The Videogame - skip reason: re_release
+La Pucelle: Ragnarok - skip reason: port
+Tony Hawk's Underground 2 Remix - skip reason: port
+FIFA Street 2 - skip reason: re_release
+FIFA Soccer 07 - skip reason: port
+
+Nintendo Wii
+-
+Chrono Trigger - skip reason: re_release
+The Legend of Zelda: Majora's Mask - skip reason: re_release
+Final Fantasy VI - skip reason: re_release
+The Legend of Zelda: Ocarina of Time - skip reason: re_release
+Super Metroid - skip reason: re_release
+Donkey Kong Country 2: Diddy's Kong Quest - skip reason: re_release
+Super Mario World - skip reason: re_release
+Cave Story - skip reason: re_release
+Mega Man X - skip reason: re_release
+Ōkami - skip reason: re_release
+Paper Mario - skip reason: re_release
+Castlevania: Rondo of Blood - skip reason: re_release
+Super Mario 64 - skip reason: re_release
+The Legend of Zelda: A Link to the Past - skip reason: re_release
+Fire Emblem: Genealogy of the Holy War - skip reason: re_release
+Super Mario Bros. 3 - skip reason: re_release
+Super Mario RPG: Legend of the Seven Stars - skip reason: re_release
+Dragon Ball Z: Budokai Tenkaichi 3 - skip reason: re_release
+Fire Emblem: Thracia 776 - skip reason: re_release
+Sin and Punishment - skip reason: re_release
+Rock Band 2 - skip reason: re_release
+LEGO Star Wars: The Complete Saga - skip reason: re_release
+Guitar Hero III: Legends of Rock - skip reason: re_release
+Gunstar Heroes - skip reason: re_release
+Donkey Kong Country - skip reason: re_release
+Star Fox 64 - skip reason: re_release
+Streets of Rage 2 - skip reason: re_release
+F-Zero X - skip reason: re_release
+The King of Fighters '98 - skip reason: re_release
+Sonic the Hedgehog 3 - skip reason: re_release
+Final Fantasy V - skip reason: re_release
+Mega Man X2 - skip reason: re_release
+Call of Duty: Black Ops - skip reason: re_release
+Mega Man 10: Bass Mode - skip reason: dlc_addon
+Metroid Prime: Trilogy - Collector's Edition - skip reason: bundle
+Metroid Prime: Trilogy - skip reason: bundle
+Kirby's Dream Collection Special Edition - skip reason: bundle
+Wii Sports + Wii Sports Resort - skip reason: bundle
+Metal Slug Anthology - skip reason: re_release
+Kirby Super Star - skip reason: re_release
+Samurai Shodown Anthology - skip reason: re_release
+The House of the Dead 2 & 3 Return - skip reason: bundle
+Sonic & Knuckles - skip reason: re_release
+Punch-Out!! - skip reason: re_release
+Fatal Frame 2: Wii Edition - skip reason: remake
+Broken Sword: Shadow of the Templars - The Director's Cut - skip reason: remake
+Phoenix Wright: Ace Attorney - Trials and Tribulations - skip reason: re_release
+Super Mario 64: Shindou Pak Taiou Version - skip reason: re_release
+Bully: Scholarship Edition - skip reason: expanded_game
+Metal Slug X - skip reason: re_release
+Guilty Gear XX Accent Core Plus - skip reason: re_release
+Resident Evil 4: Wii Edition - skip reason: port
+Final Fantasy III - skip reason: re_release
+New Play Control! Metroid Prime - skip reason: port
+The Legend of Zelda: Twilight Princess - skip reason: re_release
+Resident Evil Archives: Resident Evil - skip reason: port
+Phoenix Wright: Ace Attorney - skip reason: re_release
+New Play Control! Pikmin 2 - skip reason: port
+New Play Control! Metroid Prime 2: Dark Echoes - skip reason: port
+New Play Control! Pikmin - skip reason: port
+Nekketsu High School Dodgeball Club - skip reason: re_release
+Metal Slug 3 - skip reason: re_release
+LEGO Batman: The Videogame - skip reason: re_release
+Star Wars: The Force Unleashed - skip reason: re_release
+
+Nintendo 3DS
+-
+The Great Ace Attorney 2: Resolve - skip reason: not_available
+The House in Fata Morgana - skip reason: not_available
+Cave Story - skip reason: re_release
+Mega Man X - skip reason: re_release
+Wario Land 4 - skip reason: re_release
+Omori - skip reason: not_available
+The Great Ace Attorney: Adventures - skip reason: not_available
+Super Mario Bros. 3 - skip reason: re_release
+Metroid Fusion - skip reason: re_release
+Rhythm Heaven Megamix - skip reason: not_available
+Shin Megami Tensei: Devil Survivor - skip reason: re_release
+The Legend of Zelda: The Minish Cap - skip reason: re_release
+Pokémon Silver Version - skip reason: re_release
+WarioWare, Inc.: Mega Microgames! - skip reason: re_release
+Rayman Origins - skip reason: re_release
+SteamWorld Dig 2 - skip reason: not_available
+Pokémon Gold Version - skip reason: re_release
+Mega Man X2 - skip reason: re_release
+Apollo Justice: Ace Attorney - skip reason: re_release
+WarioWare: Touched! - skip reason: re_release
+Fire Emblem: The Sacred Stones - skip reason: re_release
+Super Smash Bros. for Nintendo 3DS: Cloud - skip reason: dlc_addon
+Shovel Knight: Specter of Torment - skip reason: expansion
+Phoenix Wright: Ace Attorney Trilogy - skip reason: bundle
+Shovel Knight: Treasure Trove - skip reason: bundle
+Animal Crossing: New Leaf - Welcome amiibo! - skip reason: bundle
+Pokémon Omega Ruby and Pokémon Alpha Sapphire Dual Pack - skip reason: bundle
+Azure Striker Gunvolt: Striker Pack - skip reason: bundle
+Yoshi's Island: Super Mario Advance 3 - skip reason: re_release
+Mario & Luigi: Superstar Saga + Bowser's Minions - skip reason: bundle
+Mega Man Legacy Collection - skip reason: bundle
+The Legend of Zelda: Ocarina of Time 3D - skip reason: remake
+The Legend of Zelda: Majora's Mask 3D - skip reason: remake
+The Binding of Isaac: Rebirth - skip reason: remake
+Fire Emblem Echoes: Shadows of Valentia - skip reason: remake
+Dragon Quest III: The Seeds of Salvation - skip reason: re_release
+Shin Megami Tensei: Strange Journey Redux - skip reason: remake
+Donkey Kong - skip reason: re_release
+Luigi's Mansion - skip reason: re_release
+Phoenix Wright: Ace Attorney - Trials and Tribulations - skip reason: re_release
+Phoenix Wright: Ace Attorney - skip reason: re_release
+3D Classics: Kirby's Adventure - skip reason: remaster
+Yo-kai Watch 3 - skip reason: expanded_game
+Monster Hunter 4 Ultimate - skip reason: expanded_game
+Dragon Quest VIII: Journey of the Cursed King - skip reason: re_release
+Monster Hunter Generations Ultimate - skip reason: expanded_game
+The Legend of Zelda: Link's Awakening DX - skip reason: re_release
+Pokémon Crystal Version - skip reason: re_release
+Shin Megami Tensei: Devil Survivor 2 - Record Breaker - skip reason: expanded_game
+Monster Hunter 3 Ultimate - skip reason: expanded_game
+Hatsune Miku: Project Mirai DX - skip reason: expanded_game
+3D Fantasy Zone II W - skip reason: port
+Dragon Quest XI: Echoes of an Elusive Age - skip reason: port
+Shin Megami Tensei: Devil Survivor Overclocked - skip reason: port
+3D OutRun - skip reason: port
+Tales of the Abyss - skip reason: re_release
+Tetris - skip reason: re_release
+3D Gunstar Heroes - skip reason: port
+Radiant Historia: Perfect Chronology - skip reason: port
+3D Streets of Rage 2 - skip reason: port
+Xenoblade Chronicles 3D - skip reason: port
+Metal Gear Solid: Snake Eater 3D - skip reason: port
+Donkey Kong Country Returns 3D - skip reason: port
